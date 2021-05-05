@@ -3,7 +3,7 @@ pipeline {
     agent any    
     
     environment {
-        MSR_FQDN_PORT='ec2-35-157-120-239.eu-central-1.compute.amazonaws.com:4443'
+        MSR_FQDN_PORT='ec2-18-196-126-116.eu-central-1.compute.amazonaws.com:4443'
     }
 
     stages {
