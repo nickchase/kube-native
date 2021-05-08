@@ -1,6 +1,6 @@
 pipeline {    
 
-    agent any    
+    agent any  
     
     environment {
         MSR_FQDN_PORT='ec2-18-196-126-116.eu-central-1.compute.amazonaws.com:4443'
